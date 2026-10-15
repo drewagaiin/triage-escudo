@@ -1,0 +1,5 @@
+# Evidencia recolectada (NUNCA subir: datos sensibles del cliente)
+EVIDENCE_*/
+*.evtx
+# Apuntes personales
+ESTUDIO.md
